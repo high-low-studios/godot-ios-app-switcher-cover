@@ -1,0 +1,13 @@
+# Native build artifacts (the committed bin/libAppSwitcherCover.a is the output)
+addons/ios_app_switcher_cover/build/
+
+# Godot editor cache (only present if you open this repo as a project)
+.godot/
+
+# Editor / IDE settings (machine-specific)
+.vscode/
+.idea/
+
+# OS cruft (macOS / Windows)
+.DS_Store
+Thumbs.db
